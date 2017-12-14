@@ -7,6 +7,3 @@ HOW TO
 Clonar el repositorio con git clone ...
 Entramos en el directorio de la aplicación y añadimos plataformas con "cordova platform add browser" o "cordova platform add android" por ejemplo.
 Para generar el APK o correr en un navegador podemos hacerlo con "cordova build browser" o "cordova build android" (el APK generado estará en el directorio "platforms/android/build/outputs/apk").
-
-*NOTA PARA JUANGU*
-El first commit aparece como "oladian" que es la cuenta del compañero que usa mi equipo en programación, y su cuenta está vinculada en ese equipo.
